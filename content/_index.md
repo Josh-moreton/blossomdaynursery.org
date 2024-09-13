@@ -55,7 +55,7 @@ intro_video:
   subtitle: "Welcome to Blossom"
   title: "A home away from home"
   description: "Come visit our safe, nurturing seaside environment where our children play, grow, and develop."
-  video_url: "https://www.youtube.com/embed/MVyu0_pdiKI"
+  video_url: "https://www.youtube.com/embed/GF7XNGZD35k"
   video_thumbnail: "images/video-popup.png"
 
 # how_it_works
